@@ -24,7 +24,7 @@ setup(
         ]
     },
     classifiers=(
-        'Development Status :: 4 - Beta',
+        'Development Status :: 5 - Beta',
         'Environment :: Web Environment',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: BSD License',
